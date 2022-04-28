@@ -1,5 +1,5 @@
 randomly.palette
-================
+=================
 
 .. automodule:: randomly.palette
    :members:

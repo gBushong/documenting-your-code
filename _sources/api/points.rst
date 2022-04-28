@@ -1,7 +1,7 @@
-randomly.points
-===============
+randomly.password
+=================
 
-.. automodule:: randomly.points
+.. automodule:: randomly.password
    :members:
    :undoc-members:
    :show-inheritance:
