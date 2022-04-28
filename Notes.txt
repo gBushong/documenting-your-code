@@ -1,0 +1,29 @@
+Notes:
+
+Steps for documentation:
+
+In the Code
+-----------
+ 1. Comment your code
+    - Tricky bits
+    - explain reasoning
+    - poorly named library functions etc
+
+ 2. Type annotations in functions
+
+ 3. Docstrings
+   - Pep 257:
+      * always include at least a one-line docstring
+      * Use triple-double quotes, not single
+      * Try not to repeat the function/class name
+
+   - you can add examples to docstrings that will auto-run
+      like a test!
+   - auto docstrings should work in sublime
+
+Jupyter Book
+------------
+
+
+Sphinx
+------
